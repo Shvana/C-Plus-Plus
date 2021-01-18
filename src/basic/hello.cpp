@@ -6,7 +6,9 @@
 
 int main()
 {
-    std::cout<<"Hello, World!"<<std::endl;
-    printf("hello print");
+    std::cout << "Hello, World!" << std::endl;
+	
+    printf("Hello print");
+	
     return 0;
 }

@@ -8,3 +8,5 @@ add_executable(c_plus_pre src/basic/pre_define.cpp)
 add_executable(c_plus_exp src/basic/explain_code_basic.cpp)
 add_executable(c_plus_ns src/basic/using_namespace.cpp)
 add_executable(hello_namespace src/basic/hello_namespace.cpp)
+
+add_executable(variables src/basict_progrmming/variable.cpp)
